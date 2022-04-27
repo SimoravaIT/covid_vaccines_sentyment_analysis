@@ -3,7 +3,7 @@
 ### Who we are
 This project is developed by 4 students of USI "Visual analytics" course:
 
-* Simone Rava (ravasimoneit@gmail.com)
+* Simone Rava 
 * Valdet Ismaili 
 * Federico Lombardo 
 * Felici Rocco 
