@@ -1,12 +1,12 @@
 # Sentiment Analysis Covid Vaccine
 
 ### Who we are
-This project is developed by group 4 of USI "Visual analytics" course:
+This project is developed by 4 students of USI "Visual analytics" course:
 
+* Simone Rava (simone.rava@usi.ch)
 * Valdet Ismaili (ismaiv@usi.ch)
 * Federico Lombardo (lombafe@usi.ch)
 * Felici Rocco (felicr@usi.ch)
-* Simone Rava (simone.rava@usi.ch)
 
 ### A brief description
 * The aim is to show some interesting patterns found out analyzing the sentiment of the population during the COVID vaccination campaign and visualize them in a dashboard
