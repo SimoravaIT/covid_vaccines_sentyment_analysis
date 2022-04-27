@@ -4,9 +4,9 @@
 This project is developed by 4 students of USI "Visual analytics" course:
 
 * Simone Rava (ravasimoneit@gmail.com)
-* Valdet Ismaili (ismaiv@usi.ch)
-* Federico Lombardo (lombafe@usi.ch)
-* Felici Rocco (felicr@usi.ch)
+* Valdet Ismaili 
+* Federico Lombardo 
+* Felici Rocco 
 
 ### A brief description
 * The aim is to show some interesting patterns found out analyzing the sentiment of the population during the COVID vaccination campaign and visualize them in a dashboard
